@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswindilip
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aswindilip5@gmail.com 
 
